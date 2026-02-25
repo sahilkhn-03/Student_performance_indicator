@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ml-project
+Version: 0.0.1
+Summary: Machine Learning Project
+Author: Sahil
+Author-email: sahilkhk001@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
