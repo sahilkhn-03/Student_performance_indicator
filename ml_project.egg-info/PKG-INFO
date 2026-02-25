@@ -4,6 +4,6 @@ Version: 0.0.1
 Summary: Machine Learning Project
 Author: Sahil
 Author-email: sahilkhk001@gmail.com
-Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: pandas
 Requires-Dist: seaborn
